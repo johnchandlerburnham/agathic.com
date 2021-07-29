@@ -1,4 +1,9 @@
-## What does "agathic" mean?
+
+# Welcome
+
+This web
+
+# What does "agathic" mean?
 
 When I was growing up, my father had a collection of dusty science-fiction paperbacks. In every house we lived in (we moved several times) there would be a shelf. And on that shelf were stories of the most wonderful worlds.  Stories by Stephen R. Donaldson, Frank Herbert, Anne McCaffrey, Larry Niven and James Pournelle, and many many others. Prominent among this collection, with one of the older and more worn covers, was a book called [Cities in Flight](https://en.wikipedia.org/wiki/Cities_in_Flight) by James Blish. A really fun set of stories about interstellar space travel, whole cities traveling through space.
 
