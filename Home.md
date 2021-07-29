@@ -4,13 +4,15 @@ Hi, I'm John C. Burnham. I write [computer programs](https://github.com/johnchan
 
 This site is also synchronized to [a Git repository](https://github.com/johnchandlerburnham/agathic.com). Any technical or typographical issues can be reported in the repository [Issues](https://github.com/johnchandlerburnham/agathic.com/issues). A [discussion board](https://github.com/johnchandlerburnham/agathic.com/discussions) is also available for other kinds of commentary and feedback.
 
-I formerly maintened a site at [johnchandlerburnham.com](johnchandlerburnham.com)
+I formerly maintened a site at [johnchandlerburnham.com](https://johnchandlerburnham.com)
 
 ## Contact information
 
 I can be reached via email at `<my-first-name>@<this-domain>`[^2],  on Matrix at `@<my-first-name><my-last-name>@matrix.org` or on [Mastodon](https://fosstodon.org/web/accounts/270529).
 
 [^2]: Apologies for the inconvenience of having to do this substitution, but this prevents my info from being harvested. If this is in any way unclear, please feel free to open an issue or discussion in the repository linked to in the previous section.
+
+---
 
 ## What does "agathic" mean?
 
