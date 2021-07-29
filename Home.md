@@ -1,7 +1,16 @@
+Hi, I'm John C. Burnham. I write [computer programs](https://github.com/johnchandlerburnham), essays and fiction. This site is a web-log of some of those writings. I calling it a "web-log" instead of the normal truncation[^1], since it's not just a "log on the web", but also "log of my knowledge-web" using [Obsidian](https://obsidian.md/).
 
+[^1]: "Blog" also implies the [rebracketing](https://en.wikipedia.org/wiki/Rebracketing) of "weblog" as "we-blog", just like "copter" implies "heli-copter" instead of the orginal "helico-pter" ("spiral-wing"). Given the fascinating and unfortunate recent history of the ["we-" prefix](https://en.wikipedia.org/wiki/WeWork), I'm happy to avoid it here.
 
+This site is also synchronized to [a Git repository](https://github.com/johnchandlerburnham/agathic.com). Any technical or typographical issues can be reported in the repository [Issues](https://github.com/johnchandlerburnham/agathic.com/issues). A [discussion board](https://github.com/johnchandlerburnham/agathic.com/discussions) is also available for other kinds of commentary and feedback.
 
+I formerly maintened a site at [johnchandlerburnham.com](johnchandlerburnham.com)
 
+## Contact information
+
+I can be reached via email at `<my-first-name>@<this-domain>`[^2],  on Matrix at `@<my-first-name><my-last-name>@matrix.org` or on [Mastodon](https://fosstodon.org/web/accounts/270529).
+
+[^2]: Apologies for the inconvenience of having to do this substitution, but this prevents my info from being harvested. If this is in any way unclear, please feel free to open an issue or discussion in the repository linked to in the previous section.
 
 ## What does "agathic" mean?
 
