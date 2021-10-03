@@ -38,5 +38,5 @@ And that's the meaning I want to evoke with this website. I want to talk about t
 
 So, welcome to agathic.com, I hope you find it a "goodly" site. I'll leave you with a quote from one of my favorite philosophers:
 
-> σεμνός ὁ σοφὸς κλίνας τὴν κεφαλὴν εἶπεν· "οὐκ ὄντως οὐδὲν διαφέρει ταγαθὰ και τα κακά. συ μῶρε. συ βλακίστατε" -- [oὐίντ](https://twitter.com/dril_grc)
+> σεμνός ὁ σοφὸς κλίνας τὴν κεφαλὴν εἶπεν· "οὐκ ὄντως οὐδὲν διαφέρει ταγαθὰ και τα κακά. συ μῶρε. συ βλακίστατε" -- [oὐίντ](https://twitter.com/dril_grc/status/907366373449486336?s=20)
 
