@@ -8,9 +8,7 @@ I formerly maintened a site at [johnchandlerburnham.com](https://johnchandlerbur
 
 ## Contact information
 
-I can be reached via email at `<my-first-name>@<this-domain>`[^2],  on Matrix at `@<my-first-name><my-last-name>@matrix.org` or on [Mastodon](https://fosstodon.org/web/accounts/270529).
-
-[^2]: Apologies for the inconvenience of having to do this substitution, but this prevents my info from being harvested. If this is in any way unclear, please feel free to open an issue or discussion in the repository linked to in the previous section.
+I can be reached via email at `john@agathic.com`,  or on Matrix at `@johnburnham:matrix.org`
 
 ---
 
